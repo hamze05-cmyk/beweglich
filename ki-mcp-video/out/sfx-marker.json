@@ -1,0 +1,217 @@
+[
+ {
+  "t": 0.2,
+  "typ": "whoosh",
+  "desc": "Titel fährt ein"
+ },
+ {
+  "t": 0.85,
+  "typ": "pop",
+  "desc": "vs.-Badge"
+ },
+ {
+  "t": 2.7,
+  "typ": "whoosh",
+  "desc": "Übergang Split-Screen"
+ },
+ {
+  "t": 3.7,
+  "typ": "tippen-start",
+  "desc": "Rechts: Prompt tippen (bis 6.0 s)"
+ },
+ {
+  "t": 3.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 4.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 4.5,
+  "typ": "thud",
+  "desc": "Links: Buch landet auf Stapel"
+ },
+ {
+  "t": 4.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 5.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 5.65,
+  "typ": "thud",
+  "desc": "Links: Buch landet auf Stapel"
+ },
+ {
+  "t": 5.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 6.15,
+  "typ": "send",
+  "desc": "Rechts: Prompt senden"
+ },
+ {
+  "t": 6.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 6.6,
+  "typ": "blip",
+  "desc": "KI-Knoten aktiv"
+ },
+ {
+  "t": 6.8,
+  "typ": "thud",
+  "desc": "Links: Buch landet auf Stapel"
+ },
+ {
+  "t": 6.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 7.05,
+  "typ": "blip",
+  "desc": "MCP-Server aktiv"
+ },
+ {
+  "t": 7.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 7.5,
+  "typ": "blip",
+  "desc": "Revit aktiv – Bau startet"
+ },
+ {
+  "t": 7.9,
+  "typ": "check",
+  "desc": "Regelwerk 1 angewendet"
+ },
+ {
+  "t": 7.95,
+  "typ": "thud",
+  "desc": "Links: Buch landet auf Stapel"
+ },
+ {
+  "t": 7.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 8.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 8.7,
+  "typ": "check",
+  "desc": "Regelwerk 2 angewendet"
+ },
+ {
+  "t": 8.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 9.1,
+  "typ": "thud",
+  "desc": "Links: Buch landet auf Stapel"
+ },
+ {
+  "t": 9.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 9.5,
+  "typ": "check",
+  "desc": "Regelwerk 3 angewendet"
+ },
+ {
+  "t": 9.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 10.3,
+  "typ": "check",
+  "desc": "Regelwerk 4 angewendet"
+ },
+ {
+  "t": 10.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 10.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 11,
+  "typ": "ding",
+  "desc": "Rechts: Fertig – Zähler stoppt"
+ },
+ {
+  "t": 11.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 11.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 12.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 12.98,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandstart"
+ },
+ {
+  "t": 13.5,
+  "typ": "klick",
+  "desc": "Links: Mausklick Wandende"
+ },
+ {
+  "t": 14.1,
+  "typ": "whoosh",
+  "desc": "Übergang Vergleich"
+ },
+ {
+  "t": 15,
+  "typ": "tick-up",
+  "desc": "Zahlen/Balken zählen hoch"
+ },
+ {
+  "t": 16.4,
+  "typ": "impact",
+  "desc": "Zeitersparnis > 99 %"
+ },
+ {
+  "t": 17.9,
+  "typ": "whoosh",
+  "desc": "Übergang Abschluss"
+ },
+ {
+  "t": 18.5,
+  "typ": "chime",
+  "desc": "Claim erscheint"
+ }
+]

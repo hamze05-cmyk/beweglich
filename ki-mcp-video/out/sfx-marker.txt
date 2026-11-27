@@ -1,0 +1,43 @@
+  0.20 s  whoosh       Titel fährt ein
+  0.85 s  pop          vs.-Badge
+  2.70 s  whoosh       Übergang Split-Screen
+  3.70 s  tippen-start Rechts: Prompt tippen (bis 6.0 s)
+  3.98 s  klick        Links: Mausklick Wandstart
+  4.50 s  klick        Links: Mausklick Wandende
+  4.50 s  thud         Links: Buch landet auf Stapel
+  4.98 s  klick        Links: Mausklick Wandstart
+  5.50 s  klick        Links: Mausklick Wandende
+  5.65 s  thud         Links: Buch landet auf Stapel
+  5.98 s  klick        Links: Mausklick Wandstart
+  6.15 s  send         Rechts: Prompt senden
+  6.50 s  klick        Links: Mausklick Wandende
+  6.60 s  blip         KI-Knoten aktiv
+  6.80 s  thud         Links: Buch landet auf Stapel
+  6.98 s  klick        Links: Mausklick Wandstart
+  7.05 s  blip         MCP-Server aktiv
+  7.50 s  klick        Links: Mausklick Wandende
+  7.50 s  blip         Revit aktiv – Bau startet
+  7.90 s  check        Regelwerk 1 angewendet
+  7.95 s  thud         Links: Buch landet auf Stapel
+  7.98 s  klick        Links: Mausklick Wandstart
+  8.50 s  klick        Links: Mausklick Wandende
+  8.70 s  check        Regelwerk 2 angewendet
+  8.98 s  klick        Links: Mausklick Wandstart
+  9.10 s  thud         Links: Buch landet auf Stapel
+  9.50 s  klick        Links: Mausklick Wandende
+  9.50 s  check        Regelwerk 3 angewendet
+  9.98 s  klick        Links: Mausklick Wandstart
+ 10.30 s  check        Regelwerk 4 angewendet
+ 10.50 s  klick        Links: Mausklick Wandende
+ 10.98 s  klick        Links: Mausklick Wandstart
+ 11.00 s  ding         Rechts: Fertig – Zähler stoppt
+ 11.50 s  klick        Links: Mausklick Wandende
+ 11.98 s  klick        Links: Mausklick Wandstart
+ 12.50 s  klick        Links: Mausklick Wandende
+ 12.98 s  klick        Links: Mausklick Wandstart
+ 13.50 s  klick        Links: Mausklick Wandende
+ 14.10 s  whoosh       Übergang Vergleich
+ 15.00 s  tick-up      Zahlen/Balken zählen hoch
+ 16.40 s  impact       Zeitersparnis > 99 %
+ 17.90 s  whoosh       Übergang Abschluss
+ 18.50 s  chime        Claim erscheint
